@@ -1,0 +1,7 @@
+name: FixStupidMojangsPacketOrder
+version: 0.0.1-Dont-Bame-Me-If-It-Breaks
+main: net.mystalion.rightpacketorder.RightPacketOrder
+authors: [Paulomart]
+depend: [ProtocolLib]
+commands:
+  test-right-order:
